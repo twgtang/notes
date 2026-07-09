@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/电管家/OA/OA派工优化/","tags":["gardenEntry"],"dg-show-file-tree":true,"dg-note-properties":{}}
+{"dg-publish":true,"permalink":"//oa/oa/","tags":["gardenEntry"],"dg-note-properties":{}}
 ---
 
 # OA 合同派工优化
